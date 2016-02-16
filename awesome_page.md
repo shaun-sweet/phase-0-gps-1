@@ -12,4 +12,9 @@ git push origin master
 
 [screenshot](screenshot.png)
 
+
 Making changes to the master version of awesome_page.md
+
+
+making small changes with the small-conflict branch
+
